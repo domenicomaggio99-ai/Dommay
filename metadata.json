@@ -1,0 +1,6 @@
+{
+  "name": "Convivo - Gestione Inquilini & Spese 730",
+  "description": "App per la gestione della vita tra inquilini in Italia: divisione bollette con volture, turni pulizia e differenziata, resoconto spese per il proprietario e Modello 730.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
